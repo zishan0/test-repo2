@@ -1,2 +1,3 @@
 Triggering a commit
 triggering commit to resolve json issue
+delete package json from home path and trigger
