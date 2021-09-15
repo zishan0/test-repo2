@@ -1,1 +1,2 @@
 adding file under path to be included in the changelog
+since the file does not have the commit starting with fix: it did not create a new pr for merge, this time the commit will have the prefix
