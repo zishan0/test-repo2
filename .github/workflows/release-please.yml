@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: GoogleCloudPlatform/release-please-action@v2
         with:
-          release-type: node
+          release-type: python
           package-name: release-please-action
-          path: path1/
+#           path: path1/
